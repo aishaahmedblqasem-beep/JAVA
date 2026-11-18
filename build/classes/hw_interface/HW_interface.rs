@@ -1,0 +1,2 @@
+hw_interface.HW_interface
+hw_interface.SeniorityComparator
